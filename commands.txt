@@ -14,3 +14,6 @@ command for adding all changes to staging area
 command fro adding stated files to local repository
 
 > git commit -m "message"
+
+command for listing all untracked files
+>git status
