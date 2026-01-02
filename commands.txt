@@ -5,3 +5,12 @@ configruation
 > git config --global user.name "username" [adding  a global user.name]
 > git confit --global user.email "useremail" [adding user email]
 
+command for indiatializing git repository :
+    >git init 
+
+command for adding all changes to staging area
+> git add -A 
+
+command fro adding stated files to local repository
+
+> git commit -m "message"
