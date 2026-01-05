@@ -17,3 +17,5 @@ command fro adding stated files to local repository
 
 command for listing all untracked files
 >git status
+github repository connect to local repository
+> git remote add origin(name) path
